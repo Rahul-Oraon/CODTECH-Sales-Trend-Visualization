@@ -17,4 +17,3 @@ The owner wants to create an annual sales report from this data. So, that the ow
 - Made sure that data is consistent and clean with respect to data type, date formate and values used.
 - Created pivot tables according to the question asked.
 ## Dashboard
-<img width="1711" height="387" alt="Screenshot 2026-07-09 073911" src="https://github.com/user-attachments/assets/ca1c9d01-92af-49f8-8c53-a48ff3eba620" />
