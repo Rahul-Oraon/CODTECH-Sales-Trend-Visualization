@@ -17,7 +17,7 @@ The owner wants to create an annual sales report from this data. So, that the ow
 - Made sure that data is consistent and clean with respect to data type, date formate and values used.
 - Created pivot tables according to the question asked.
 ## Dashboard
-<img width="1711" height="387" alt="Sales Data Dashboard 1" src="https://github.com/user-attachments/assets/9c0d3867-c81e-4b74-91db-4892c02ead92" />
+<img width="1696" height="367" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/0f2ccf12-4504-4fe2-9e87-4b100617512a" />
 
 ## Project Insight
 - First chart shows the Total Profit earned by owner in each product on every state.
